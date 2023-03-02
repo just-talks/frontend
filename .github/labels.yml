@@ -1,0 +1,48 @@
+- color: fef2c0
+  description: Author 可申请锁住当前讨论
+  name: Locked
+- color: 22C8AE
+  description: ""
+  name: AST
+- color: 33356F
+  description: ""
+  name: Bootstrap
+- color: 82E956
+  description: ""
+  name: Code Analysis
+- color: A96FFA
+  description: ""
+  name: CSS
+- color: 4162DD
+  description: ""
+  name: eslint
+- color: 36CF81
+  description: ""
+  name: Flex
+- color: 8F7CDB
+  description: ""
+  name: Grid
+- color: 1556B7
+  description: ""
+  name: React
+- color: EB5027
+  description: ""
+  name: Svelte
+- color: C3AA43
+  description: ""
+  name: Vanilla JS
+- color: 3DDB81
+  description: ""
+  name: Vue
+- color: 1E6FA5
+  description: ""
+  name: Web Component
+- color: "104377"
+  description: ""
+  name: Webpack
+- color: b60205
+  description: ""
+  name: 框架
+- color: 8C02AF
+  description: ""
+  name: 脚手架
